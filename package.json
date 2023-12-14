@@ -1,0 +1,26 @@
+{
+  "name": "pagadito-sdk",
+  "version": "1.0.0",
+  "description": "A pagadito SDK to connect tokenized API REST processor and also connect with Pagadito Services to display a payment screen",
+  "main": "lib/pagadito.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugochinchilla79/pagadito_js_sdk.git"
+  },
+  "keywords": [
+    "pagadito",
+    "sdk"
+  ],
+  "author": "Hugo Chinchilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugochinchilla79/pagadito_js_sdk/issues"
+  },
+  "homepage": "https://github.com/hugochinchilla79/pagadito_js_sdk#readme",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
