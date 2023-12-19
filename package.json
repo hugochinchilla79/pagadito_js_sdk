@@ -1,6 +1,6 @@
 {
   "name": "pagadito-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pagadito SDK to connect tokenized API REST processor and also connect with Pagadito Services to display a payment screen",
   "main": "lib/pagadito.js",
   "scripts": {
